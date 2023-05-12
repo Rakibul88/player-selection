@@ -1,0 +1,25 @@
+.teamSelectionPage h2{
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px grey;
+    padding: 5px;
+    width: 450px;
+    margin: auto;
+}
+
+.cricketTeamContainer{
+    display: flex;
+    margin-top: 25px;
+}
+
+.playerInfoContainer{
+    width: 55%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    border-right: 1px solid grey;
+}
+
+.listSecContainer{
+    margin-left: 10px;
+    padding: 5px;
+}

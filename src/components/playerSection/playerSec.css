@@ -1,0 +1,25 @@
+.playerSecContainer{
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-shadow: 5px 5px 8px grey;
+    width: 180px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    display: grid;
+}
+
+.playerSecContainer img{
+    margin: auto;
+    border-radius: 5px;
+    height: 150px;
+    width: 150px;
+}
+
+.playerSecContainer button{
+    height: 30px;
+    width: 150px;
+    font-weight: 500;
+    margin: auto;
+    cursor: pointer;
+}

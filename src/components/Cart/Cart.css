@@ -1,0 +1,30 @@
+.playerInfo{
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    width: 150px;
+    background-color: black;
+    color: white;
+}
+
+.addedPlayer{
+    display: flex;
+}
+
+.playerInfoDiv{
+    width: 180px;
+}
+
+.salaryContainer{
+    margin-left: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px gray;
+    color: royalblue;
+    height: 60px;
+    width: 180px;
+    text-align: center;
+    background-color: beige;
+}
